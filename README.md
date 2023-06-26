@@ -2,6 +2,7 @@
 <h3 align="center">A full stack developer from Montreal</h3>
 <p align="center">I'm a junior full-stack developer who's ready to take on new challenging projects, driven by my passion to keep improving and learning. My previous experience of working in Customer Success helps shape and inspire my work with a deep understanding of client needs, experience and perspective. </p>
 
+- 🌱 I’m currently learning **React.js and about web accessibility**
 - 📄 Get to know me: [https://www.linkedin.com/in/kirstin-penzes/](https://www.linkedin.com/in/kirstin-penzes/)
 - 📫 How to reach me: **kpenzes17@gmail.com**
 
